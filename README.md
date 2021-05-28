@@ -1,2 +1,2 @@
 ## BDSLITE
-The Best Minecraft Server Software
+An Minecraft Bedrock Edition Software
